@@ -1,0 +1,14 @@
+command_id: 701.709.220103
+test_cases:
+- expected_values:
+    IS300_ODO: 103744
+  response: '7090762010301019540'
+- expected_values:
+    IS300_ODO: 103935
+  response: 70907620103010195FF
+- expected_values:
+    IS300_ODO: 104192
+  response: '7090762010301019700'
+- expected_values:
+    IS300_ODO: 105216
+  response: 7090762010301019B00
