@@ -10,5 +10,5 @@ test_cases:
     IS300_ODO: 104192
   response: '7090762010301019700'
 - expected_values:
-    IS300_ODO: 105216
-  response: 7090762010301019B00
+    IS300_ODO: 105500
+  response: 7090762010301019C1C
